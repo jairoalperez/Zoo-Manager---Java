@@ -1,0 +1,22 @@
+Hola!
+
+estos son los codigos que se pueden colocar en el chat para obtener la info de los animales:
+	
+        \Aguila
+	\Avestruz
+	\Cocodrilo
+	\Foca
+	\Gorila
+	\Jirafa
+	\Leon
+	\Leopardo
+	\Loro
+	\Panda
+	\Pardo
+	\Polar
+	\Pinguino
+	\Rinoceronte
+	\Tigre
+
+Deben colocarse exactamente asi.
+
